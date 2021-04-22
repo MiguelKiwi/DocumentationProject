@@ -2,7 +2,7 @@
 #### Small header
 
 Date | Version | Author
------------- | -------------
+------------ | ------------- | -------------
 04/22/2021 | 1.0 | Miguel
 
 [Relative Link to another file in my repository](docs/CONTRIBUTING.md)
